@@ -1,0 +1,6 @@
+E:\Projets\GitTFS\2018\ProjectArchitecture\Project\DAL\Project.DAL\bin\Debug\Project.DAL.dll
+E:\Projets\GitTFS\2018\ProjectArchitecture\Project\DAL\Project.DAL\bin\Debug\Project.DAL.pdb
+E:\Projets\GitTFS\2018\ProjectArchitecture\Project\DAL\Project.DAL\obj\Debug\Project.DAL.csprojResolveAssemblyReference.cache
+E:\Projets\GitTFS\2018\ProjectArchitecture\Project\DAL\Project.DAL\obj\Debug\Project.DAL.csproj.CoreCompileInputs.cache
+E:\Projets\GitTFS\2018\ProjectArchitecture\Project\DAL\Project.DAL\obj\Debug\Project.DAL.dll
+E:\Projets\GitTFS\2018\ProjectArchitecture\Project\DAL\Project.DAL\obj\Debug\Project.DAL.pdb
