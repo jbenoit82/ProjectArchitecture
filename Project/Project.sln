@@ -3,9 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{42B9EABA-CE88-4C33-A146-12B508B318D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.DAL", "DAL\Project.DAL\Project.DAL.csproj", "{46E4E5D7-F536-406C-90DA-EB4BA129F418}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46E4E5D7-F536-406C-90DA-EB4BA129F418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E4E5D7-F536-406C-90DA-EB4BA129F418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E4E5D7-F536-406C-90DA-EB4BA129F418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E4E5D7-F536-406C-90DA-EB4BA129F418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{46E4E5D7-F536-406C-90DA-EB4BA129F418} = {42B9EABA-CE88-4C33-A146-12B508B318D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {753AB297-A813-4934-BDA6-CC6DCEB56DDF}
